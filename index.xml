@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Pauliaus tinklapis</title>
     
     
     
-    <link>http://localhost:1313/PauleksVGTU/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <link>http://localhost:1313/PauleksVGTU/Paulius/</link>
+    <description>Recent content on Pauliaus tinklapis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Apr 2024 18:58:56 +0300</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/PauleksVGTU/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/PauleksVGTU/Paulius/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content1</title>
-      <link>http://localhost:1313/PauleksVGTU/posts/content1/</link>
+      <link>http://localhost:1313/PauleksVGTU/Paulius/posts/content1/</link>
       <pubDate>Thu, 25 Apr 2024 18:58:56 +0300</pubDate>
       
-      <guid>http://localhost:1313/PauleksVGTU/posts/content1/</guid>
+      <guid>http://localhost:1313/PauleksVGTU/Paulius/posts/content1/</guid>
       <description>
         
           
@@ -36,10 +36,10 @@
     
     <item>
       <title>Content2</title>
-      <link>http://localhost:1313/PauleksVGTU/posts/content2/</link>
+      <link>http://localhost:1313/PauleksVGTU/Paulius/posts/content2/</link>
       <pubDate>Thu, 25 Apr 2024 18:58:56 +0300</pubDate>
       
-      <guid>http://localhost:1313/PauleksVGTU/posts/content2/</guid>
+      <guid>http://localhost:1313/PauleksVGTU/Paulius/posts/content2/</guid>
       <description>
         
           
